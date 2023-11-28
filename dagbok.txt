@@ -1,3 +1,14 @@
+Mættir:
+Breki Gunnarsson
+Haukur Bjarnason
+Róbert Aron
+Guðmundur Hrafn
+
+Ekki mættir:
+Emil Bjarki Halldórsson
+Birkir Eyþórsson
+
+
 Vika 1
 27/11/23
 Todo:
@@ -14,4 +25,4 @@ Afrakstur dagsins:
 Todo:
     Framkvæma notendahópagreiningu
     Skilgreina notkunartilvik fyrir A og B kröfur
-    
+
