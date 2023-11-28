@@ -1,12 +1,12 @@
 Mættir:
-Breki Gunnarsson
-Haukur Bjarnason
-Róbert Aron
-Guðmundur Hrafn
+    Breki Gunnarsson
+    Haukur Bjarnason
+    Róbert Aron
+    Guðmundur Hrafn
 
 Ekki mættir:
-Emil Bjarki Halldórsson
-Birkir Eyþórsson
+    Emil Bjarki Halldórsson
+    Birkir Eyþórsson
 
 
 Vika 1
