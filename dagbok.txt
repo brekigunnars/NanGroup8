@@ -1,11 +1,17 @@
 Vika 1
 27/11/23
-To do:
+Todo:
     læra á github
     gera repo á github
     gera plan fyrir vikuna
 
 Afrakstur dagsins:
     gerðum repo á gihub
-    lærðum að nota github 
+    lærðum að nota github   
     gerðum gróft plan fyrir hönnunarskýrsluna
+
+28/11/23
+Todo:
+    Framkvæma notendahópagreiningu
+    Skilgreina notkunartilvik fyrir A og B kröfur
+    
