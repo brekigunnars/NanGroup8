@@ -24,5 +24,13 @@ Afrakstur dagsins:
 28/11/23
 Todo:
     Framkvæma notendahópagreiningu
-    Skilgreina notkunartilvik fyrir A og B kröfur
+    Skilgreina notkunartilvik fyrir A kröfur
+    Gera kröfulista 
+    Gera git handbók
+
+Afrakstur:
+    Kláruðum git handbók
+    Kláruðum kröfulista með fyrirvara um hugsanlegar breytingar
+    Kláruðum greiningu á notendahópum
+    Náðum ekki að gera notkunartilvikin
 
