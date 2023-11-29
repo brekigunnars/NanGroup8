@@ -34,3 +34,10 @@ Afrakstur:
     Kláruðum greiningu á notendahópum
     Náðum ekki að gera notkunartilvikin
 
+29/11/23
+Todo:
+    Birkir: Klára use cases 
+    Breki: Klára use cases og uppfæra kröfulista
+    Gummi: Klára class diagram
+    Haukur: Klára class diagram
+    Róbert: Klára use cases
