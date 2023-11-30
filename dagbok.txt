@@ -41,3 +41,19 @@ Todo:
     Gummi: Klára class diagram
     Haukur: Klára class diagram
     Róbert: Klára use cases
+
+29.11.23
+    Afrakstur dagsins
+    Birkir: kláraði use casein sín
+    Breki: kláraði use casein sín
+    Gummi: byrjaði á class diagram
+    Haukur: byrjaði á class diagram
+    Róbert: kláraði use casein sín
+
+30.11.23
+Todo:
+    Breki: Class diagram
+    Birkir: Skýrslugerð
+    Gummi: Skýrslugerð
+    Haukur: Skýrslugerð/class diagram
+    Róbert: Skýrslugerð/class diagram
