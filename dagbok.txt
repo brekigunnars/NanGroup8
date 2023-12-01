@@ -1,13 +1,3 @@
-Mættir:
-    Breki Gunnarsson
-    Haukur Bjarnason
-    Róbert Aron
-    Guðmundur Hrafn
-
-Ekki mættir:
-    Emil Bjarki Halldórsson
-    Birkir Eyþórsson
-
 
 Vika 1
 27/11/23
@@ -42,7 +32,6 @@ Todo:
     Haukur: Klára class diagram
     Róbert: Klára use cases
 
-29.11.23
     Afrakstur dagsins
     Birkir: kláraði use casein sín
     Breki: kláraði use casein sín
@@ -58,10 +47,24 @@ Todo:
     Haukur: Skýrslugerð/class diagram
     Róbert: Skýrslugerð/class diagram
 
-30.11.23
 Afrakstur Dagsins:
     Breki: Kominn langt á leið með class diagram
     Birkir: Kominn langt á leið með skýrslu
     Gummi: Kominn langt á leið með skýrslu
     Haukur: Komunn langt á leið með skýrsu 
     Róbert: Kominn langt á leið með class diagram
+
+01.12.23
+Todo:
+Breki: Klára class diagram og hjálpa til við skýrslugerð
+Birkir: Klára  skýrslugerð 
+Gummi: Klára skýrslugerð
+Haukur: Klára skýslugerð
+Róbert: Fínpússa skýrslu og bæta við notendakröfum
+
+Afrakstur Dagsins:
+Breki: kláraði class diagram
+Haukur: kláraði skýrslu
+Gummi: kláraði requirements og lagaði use case
+Róbert: kláraði skýrslu
+Birkir:kláraði skýrslu
