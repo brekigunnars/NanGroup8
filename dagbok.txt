@@ -57,3 +57,11 @@ Todo:
     Gummi: Skýrslugerð
     Haukur: Skýrslugerð/class diagram
     Róbert: Skýrslugerð/class diagram
+
+30.11.23
+Afrakstur Dagsins:
+    Breki: Kominn langt á leið með class diagram
+    Birkir: Kominn langt á leið með skýrslu
+    Gummi: Kominn langt á leið með skýrslu
+    Haukur: Komunn langt á leið með skýrsu 
+    Róbert: Kominn langt á leið með class diagram
